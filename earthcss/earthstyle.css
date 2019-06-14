@@ -1,0 +1,21 @@
+.navbar_content>li{
+	display: inline-block;
+}
+.navbar_content>li>a{
+	margin:15px;
+	font-size: 20px;
+	padding :10px,20px;
+	border: 1px solid #646D7C;
+	text-decoration: none;
+	color: #fff;
+}
+.navbar_content>li>a:hover{
+	background: #49505F;
+	text-decoration: none;
+}
+.navbar{
+	text-align: center;
+	background-color: #383E4C;
+	margin: 0px,auto;
+}
+
